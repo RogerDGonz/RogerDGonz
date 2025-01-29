@@ -1,4 +1,4 @@
-## Hi i am Roger Daniel González 👋
+## Hi, i am Roger Daniel González 👋
 -software developer-
 
 
