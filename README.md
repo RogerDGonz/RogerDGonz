@@ -1,5 +1,5 @@
-## Hi i am Roger Daniel González Niebla 👋
-software developer
+## Hi i am Roger Daniel González 👋
+-software developer-
 
 
 ### ⚙️ &nbsp;GitHub Analytics
