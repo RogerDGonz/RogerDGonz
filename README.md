@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi i am Roger Daniel González Niebla 👋
+software developer
+
+
 
 <!--
 **RogerDGonz/RogerDGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
